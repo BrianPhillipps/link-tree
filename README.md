@@ -1,1 +1,2 @@
 # link-tree
+Hi! This is my first project I decided to take on my own. I wanted to see if I was able to create a linktree for myself and use it in my bio. I did a majority of the framework by myself then I followed a guide for some little features that I wanted to add. It is hosted on neocities. I'm working on adding a picture to the top of the page but I haven't found one I like. I also want to add darkmode capibilites.
