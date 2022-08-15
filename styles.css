@@ -24,6 +24,9 @@ body {
         
       }
 
+     
+
+
 
       .link-tree {
         list-style: none;
@@ -49,18 +52,9 @@ body {
 	      transition: transform .2s;
       }
 
-      img {
-        height: 200px;
-        width: 200px;
-        border-radius: 100%;
-        border: 5px solid white;
-        transition: transform .2s;
-      }
       
-      img:hover {
-        transform: scale(1.2);
-        
-      }
+      
+   
 
       .link-tree > li a:hover,
       .link-tree > li a:focus {
